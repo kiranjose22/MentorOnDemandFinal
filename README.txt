@@ -22,6 +22,8 @@ admin - 8083
 user - 8081
 mentor - 8082
 
+Admin Login - http://localhost:4200/admin
+
 Admin Credentials
 ----------------
 email : a@a
